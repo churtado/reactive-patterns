@@ -5,7 +5,7 @@ import { Lesson } from "../shared/model/lesson";
 import { CoursesService } from 'app/services/courses.service';
 import { Observable } from 'rxjs';
 
-
+// LOOK HERE!
 @Component({
     selector: 'home',
     templateUrl: './home.component.html',
