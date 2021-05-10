@@ -32,7 +32,7 @@
     "body-parser": "^1.17.1",
     "cookies-js": "^1.2.3",
     "express": "^4.15.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "promise-polyfill": "^6.0.2",
     "ts-helpers": "^1.1.1"
   },
